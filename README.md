@@ -1,4 +1,3 @@
-Copy code
 👋 Hello, I'm Tomi, a Fullstack Developer with a passion for crafting digital experiences!
 
 💼 My Expertise:
