@@ -16,6 +16,7 @@ I'm always excited to work on new and challenging projects. If you're looking to
 🚀 Let's build something amazing together and make your vision a reality! 💡
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomi-atom&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-atom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
