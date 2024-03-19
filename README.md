@@ -14,6 +14,7 @@ I'm always excited to work on new and challenging projects. If you're looking to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-atom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?tomia-atom&base=1000)
 ![](https://komarev.com/ghpvc/?username=tomi-atom&color=blue)
 
 <div>
