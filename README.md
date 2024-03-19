@@ -14,8 +14,7 @@ I'm always excited to work on new and challenging projects. If you're looking to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-atom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?tomi-atom&base=1000)
-![](https://komarev.com/ghpvc/?username=tomi-atom&color=blue)
+![](https://komarev.com/ghpvc/?username=tomi-atom&style=flat-square)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
