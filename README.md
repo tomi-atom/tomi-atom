@@ -1,4 +1,4 @@
-👋 Hello, I'm Tomi, a Software Developer with a passion for crafting digital experiences!
+👋 Hi, I'm Tomi — a Software Developer who’s passionate about building clean, efficient, and impactful digital solutions.
 
 💼 My Expertise:
 - 📱 Flutter: I specialize in building beautiful, natively compiled applications for mobile, web, and desktop using Flutter, the open-source UI framework by Google. Let's create stunning digital experiences across platforms with Flutter!
