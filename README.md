@@ -1,9 +1,11 @@
 👋 Hi, I'm Tomi — a Software Developer who’s passionate about building clean, efficient, and impactful digital solutions.
 
 💼 My Expertise:
-- 📱 Flutter: I specialize in building beautiful, natively compiled applications for mobile, web, and desktop using Flutter, the open-source UI framework by Google. Let's create stunning digital experiences across platforms with Flutter!
+🔹 Flutter Developer
+I specialize in building high-performance, cross-platform mobile apps using Flutter. Whether you're targeting Android, iOS, or web, I can deliver elegant, responsive applications from a single codebase — saving time and development costs.
 
-- 🚀 Laravel: I'm also experienced in building robust and scalable web applications using Laravel, known for its elegant syntax and powerful features. Let's turn your ideas into reality with the Laravel magic!
+🔹 Laravel Developer
+With deep experience in Laravel, I develop secure, scalable, and maintainable web applications. From custom dashboards to full-featured platforms, I bring your backend systems to life with clean architecture and optimized performance.
 
 - 🐹 Golang: I have experience in Golang, a statically typed, compiled programming language designed at Google. I leverage its simplicity and efficiency to build scalable backend systems and microservices.
 
