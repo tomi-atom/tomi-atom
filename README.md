@@ -1,16 +1,10 @@
-👋 Hi, I'm Tomi — a Software Developer who’s passionate about building clean, efficient, and impactful digital solutions.
-
-💼 My Expertise:
-🔹 Flutter Developer
-I specialize in building high-performance, cross-platform mobile apps using Flutter. Whether you're targeting Android, iOS, or web, I can deliver elegant, responsive applications from a single codebase — saving time and development costs.
-
-🔹 Laravel Developer
-With deep experience in Laravel, I develop secure, scalable, and maintainable web applications. From custom dashboards to full-featured platforms, I bring your backend systems to life with clean architecture and optimized performance.
-
-- 🐹 Golang: I have experience in Golang, a statically typed, compiled programming language designed at Google. I leverage its simplicity and efficiency to build scalable backend systems and microservices.
-
-🤝 Let's Collaborate:
-I'm always excited to work on new and challenging projects. If you're looking to bring your ideas to life, whether it's a mobile app, web app, or a full-stack solution, let's chat and make it happen!
+Hi, I'm Tomi — Flutter & Laravel Developer
+I'm a Software Developer passionate about crafting clean, efficient, and impactful digital solutions. I focus on delivering user-friendly, scalable applications that solve real-world problems.
+Core Expertise
+ Flutter Developer (Primary Focus)
+I specialize in building high-performance, cross-platform mobile applications using Flutter. With a single codebase, I create elegant, responsive apps for Android, iOS, and the web — ensuring faster development cycles and reduced costs without compromising quality or user experience.
+Laravel Developer
+I also build robust and scalable backend systems using Laravel. From RESTful APIs and authentication systems to full-featured dashboards, I write clean, maintainable code with a focus on security and performance.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomi-atom&theme=dark&background=000000)](https://git.io/streak-stats)
 
