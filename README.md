@@ -1,8 +1,11 @@
 Hi, I'm Tomi — Flutter & Laravel Developer
 I'm a Software Developer passionate about crafting clean, efficient, and impactful digital solutions. I focus on delivering user-friendly, scalable applications that solve real-world problems.
+
 Core Expertise
- Flutter Developer (Primary Focus)
+
+Flutter Developer (Primary Focus)
 I specialize in building high-performance, cross-platform mobile applications using Flutter. With a single codebase, I create elegant, responsive apps for Android, iOS, and the web — ensuring faster development cycles and reduced costs without compromising quality or user experience.
+
 Laravel Developer
 I also build robust and scalable backend systems using Laravel. From RESTful APIs and authentication systems to full-featured dashboards, I write clean, maintainable code with a focus on security and performance.
 
